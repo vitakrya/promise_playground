@@ -1,0 +1,3 @@
+{"base":"EUR","date":"2017-05-16","rates":{"AUD":1.492,"BGN":1.9558,"BRL":3.4316,"CAD":1.5058,"CHF":1.0958,"CNY":7.6185,"CZK":26.42,"DKK":7.4394,"GBP":0.85868,"HKD":8.6143,"HRK":7.4303,"HUF":309.54,"IDR":14709.0,"ILS":3.9874,"INR":70.85,"JPY":125.67,"KRW":1234.8,"MXN":20.689,"MYR":4.7791,"NOK":9.3918,"NZD":1.609,"PHP":54.898,"PLN":4.1984,"RON":4.5478,"RUB":62.3,"SEK":9.7215,"SGD":1.5457,"THB":38.187,"TRY":3.933,"USD":1.1059,"ZAR":14.529}}
+{"server":"nginx/1.11.13","date":"Tue, 16 May 2017 16:45:34 GMT","content-type":"application/json","content-length":"442","connection":"close","cache-control":"public, must-revalidate, max-age=900","last-modified":"Tue, 16 May 2017 00:00:00 GMT","vary":"Origin","x-content-type-options":"nosniff"}
+"http://api.fixer.io/latest"

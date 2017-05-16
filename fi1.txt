@@ -1,0 +1,3 @@
+["_readableState","readable","domain","_events","_eventsCount","_maxListeners","socket","connection","httpVersionMajor","httpVersionMinor","httpVersion","complete","headers","rawHeaders","trailers","rawTrailers","upgrade","url","method","statusCode","statusMessage","client","_consuming","_dumped","req","requestUrl","read","body"]
+{"server":"nginx/1.11.13","date":"Tue, 16 May 2017 14:52:21 GMT","content-type":"application/json","content-length":"442","connection":"close","cache-control":"public, must-revalidate, max-age=900","last-modified":"Tue, 16 May 2017 00:00:00 GMT","vary":"Origin","x-content-type-options":"nosniff"}
+"http://api.fixer.io/latess"
